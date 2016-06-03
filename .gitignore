@@ -16,3 +16,18 @@ Makefile.in
 /install-sh
 /missing
 /stamp-h1
+
+# project files
+.gitignore.swp
+Makefile
+config.h.in~
+config.log
+config.status
+src/.deps/
+src/Makefile
+src/hough
+src/hough-recog.o
+src/imgproc.o
+src/interface.o
+src/main.o
+
